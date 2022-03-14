@@ -25,3 +25,12 @@
     line-height: 33px;
     font-size: 30px;
 }
+.right-section {
+    margin-top: 140px;
+    margin-left: 230px;
+    height: 350px;
+    width: 400px;
+    padding: 14px;
+    background: #fff;
+    border-radius: 8px;
+}
