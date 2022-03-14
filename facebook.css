@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+}
+.page-container {
+    width: 100%;
+    height: 100vh;
+    background: #edf0f5;
+    display: flex; 
+}
+.left-section {
+    position: relative;
+    top: 100px;
+    left: 270px;
+}
+.left-section h1 { 
+    color: #1778f3;
+    font-size: 60px;
+    font-family: sans-serif;
+    padding: 3px;
+}
+.left-section p {
+    width: 500px;
+    line-height: 33px;
+    font-size: 30px;
+}
